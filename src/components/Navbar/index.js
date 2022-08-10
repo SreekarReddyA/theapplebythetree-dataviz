@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { strings } from '../resources/strings';
+import { strings } from '../../resources/strings';
 import React from 'react';
 
 export const Navbar = () => {
